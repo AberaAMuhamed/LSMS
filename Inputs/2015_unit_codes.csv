@@ -1,0 +1,63 @@
+﻿Unit Code,Unit Name
+1,Kilogram
+2,Gram
+3,Quintal
+4,Litres
+5,Mili Liter
+6,Box/Casa
+7,Jenbe
+8,Jog
+9,Melekiya
+21,Akumada/Dawla/Lekota Small
+22,Akumada/Dawla/Lekota Large
+31,Birchiko Small
+32,Birchiko Medium
+33,Birchiko Large
+41,Bunch Small
+42,Bunch Medium
+43,Bunch Large
+51,Chinet Small
+52,Chinet Medium
+53,Chinet Large
+61,Esir Small
+62,Esir Medium
+63,Esir Large
+71,Festal Small
+72,Festal Medium
+73,Festal Large
+81,Joniya/Kasha Small
+82,Joniya/Kasha Medium
+83,Joniya/Kasha Large
+91,Kerchat/Kemba Small
+92,Kerchat/Kemba Medium
+93,Kerchat/Kemba Large
+101,Kubaya/Cup Small
+102,Kubaya/Cup Medium
+103,Kubaya/Cup Large
+111,Kunna/Mishe/Kefer/Enkib Small
+112,Kunna/Mishe/Kefer/Enkib Medium
+113,Kunna/Mishe/Kefer/Enkib Large
+121,Madaberia/Nuse/Shera/Cheret Small
+122,Madaberia/Nuse/Shera/Cheret Medium
+123,Madaberia/Nuse/Shera/Cheret Large
+131,Medeb Small
+132,Medeb Medium
+133,Medeb Large
+141,Piece/number Small
+142,Piece/number Medium
+143,Piece/number Large
+151,Sahin Small
+152,Sahin Medium
+153,Sahin Large
+161,Shekim Small
+162,Shekim Medium
+163,Shekim Large
+171,Sini Small
+172,Sini Medium
+181,Tasa/Tanika/Shember/Selemon Small
+182,Tasa/Tanika/Shember/Selemon Medium
+183,Tasa/Tanika/Shember/Selemon Large
+191,Zorba/Akara Small
+192,Zorba/Akara Medium
+193,Zorba/Akara Large
+900,Other(Specify)
